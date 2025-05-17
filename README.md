@@ -3,7 +3,8 @@
 ResumeGPT is a smart resume optimizer built with OpenAI GPT-4, Streamlit, and Python. It helps job seekers rewrite their resumes to match job descriptions using LLM-based text generation. The final version can be downloaded to manual updates.
 ## Architecture
 
-<img width="665" alt="image" src="https://github.com/user-attachments/assets/3a9feb49-71e7-4526-9eb6-f8f3624bcba1" />
+<img width="678" alt="image" src="https://github.com/user-attachments/assets/ae8aa816-96fb-4982-89e4-19504a04d63d" />
+
 
 ## 🔥 Features
 - Upload your resume (PDF/DOCX)
